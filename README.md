@@ -25,6 +25,7 @@ According to police records, 25% of crime events between 2008 and 2012 were attr
 
 The finding above leads to my hypothesis that crimes were more likely to occur in the community areas with high hardship indexes. However, the correlation between the number of crimes and the hardship index of 77 community areas is weak (0.25). To illustrate, despite the highest hardship index (98), there were 2 crimes that happened in Riverdale. On the other hand, Near North Side recorded 15 crimes while its hardship index is 1. Also, it seems unpredictable that Austin had 43 crimes (the highest among all areas) but Oakland had no at all though their hardship index is 73 and 78, respectively. 
  
+
 Similarly, several indicators from either census data or public schools’ data were considered relevant to the number of crimes that occurred (e.g., per capita income, per cent housing crowded, household bellowed property, per cent above 15 unemployed, per cent above 25 with no high school diploma, total college enrolment, average school safety score, average family involvement score, average leaders score, average teachers score, average parent engagement score, average parent environment score). Except for the misconduct rates and total college enrolment, the correlation of others to the number of crimes that occurred were below 0.3. The rate of misconduct per 100 students is highly correlated with the number of crimes (76%, R^2=0.57). The total college enrolment seemed to have a moderate relation to the crime rate (54%, R^2=0.30). 
  
  
